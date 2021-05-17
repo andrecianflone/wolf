@@ -1,8 +1,4 @@
-<div align="center">
-   <img src="./docs/images/wolf.png" width="600"><br><br>
-</div>
 
------------------------------------------------
 
 **Wolf** is an open source library for Invertible Generative (Normalizing) Flows.
 
